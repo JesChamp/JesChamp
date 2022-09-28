@@ -25,8 +25,10 @@ My goal is to self teach myself to become a full stack developer.
 ## Concepts I would like to accomplish/learn for personal development: 
 | CONCEPT | STATUS |
 |:---| :---:|
-| Agile Development Methodology | Pending |
 | Adversarial Attack Behaviors | Pending |
+| Agile Development Methodology | Pending |
+| AI/Machine Learning/Deep Learning | Pending |
+| Alorithms and Data Structures | Pending |
 | APIs and Data Driven Content | Pending |
 | Binary Analysis Tools and Processes | Pending | 
 | Blockchain | Learning |
