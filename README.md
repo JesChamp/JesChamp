@@ -12,10 +12,12 @@ My goal is to self teach myself to become a full stack developer.
 These are the languages I would like to learn:
 | Languages | Status |
 |:---| :---:|
-| JavaScript | Learning | 
+| JavaScript | Focusing | 
 | SQL | Learning |
 | Python | Pending |
-| C++ | Pending |
+| C# | Pending |
+| .NET | Pending |
+| Rust | Pending |
 | Haskell | Learning | 
 
 This is my serious attempt to keep myself accountable for learning everyday. In addition to tracking my daily GitHub commits, I will also stream myself on [Twitch](https://www.twitch.tv/jessenextdoor). Feel free to join the stream while I learn! 
