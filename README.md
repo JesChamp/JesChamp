@@ -9,10 +9,10 @@ My name is Jesse Champion. I graduated with a Bachelor's Degree in Accounting, b
 
 My goal is to self teach myself to become a full stack developer. 
 
-## These are the languages I would like to learn/explore:
+## These are the languages I would like to explore/learn:
 | LANGUAGES | STATUS |
 |:---| :---:|
-| JavaScript | Focusing | 
+| **JavaScript** | **Focusing** | 
 | SQL | Learning |
 | Python | Pending |
 | C# | Pending |
@@ -22,7 +22,7 @@ My goal is to self teach myself to become a full stack developer.
 | Haskell | Learning | 
 | Plutus | Pending |
 
-## Concepts I would like to accomplish/learn for personal development: 
+## Concepts I would like to explore/learn for personal development: 
 | CONCEPT | STATUS |
 |:---| :---:|
 | Adversarial Attack Behaviors | Pending |
@@ -43,6 +43,15 @@ My goal is to self teach myself to become a full stack developer.
 | Static Source Code Analysis Tools and Processes | Pending |
 | Statistical and Predictive Modeling | Pending | 
 | Virtual Machines | Learning |
+
+## Applications I have interacted with or want to learn:
+| APPLICATION | STATUS |
+|:---| :---:|
+| Cardano Node | Learning |
+| **Linux Ubuntu 64-bit** | **Focusing** |
+| **Oracle VM Virtual Machine** | **Focusing** |
+| Microsoft BI | Pending |
+| Windows 10 OS | Learning |
 
 
 ## Certifications I would like to obtain:
