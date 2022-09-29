@@ -29,7 +29,7 @@ My goal is to self teach myself to become a full stack developer.
 | Adversarial Attack Behaviors | Pending | Novice |
 | Agile Development Methodology | Pending | Novice |
 | AI/Machine Learning/Deep Learning | Pending | Novice |
-| Alorithms and Data Structures | Pending | Novice |
+| Alorithms and Data Structures | Learning | Novice |
 | APIs and Data Driven Content | Pending | Novice |
 | Binary Analysis Tools and Processes | Pending | Novice | 
 | Blockchain | Learning | Advanced Beginner |
