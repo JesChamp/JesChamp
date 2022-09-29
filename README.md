@@ -42,6 +42,7 @@ My goal is to self teach myself to become a full stack developer.
 | Software Assurance and Security | Pending |
 | Static Source Code Analysis Tools and Processes | Pending |
 | Statistical and Predictive Modeling | Pending | 
+| Virtual Machines | Learning |
 
 
 ## Certifications I would like to obtain:
