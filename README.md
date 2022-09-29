@@ -7,7 +7,7 @@
  ```
 My name is Jesse Champion. I graduated with a Bachelor's Degree in Accounting, but have always been interested in programming. 
 
-My goal is to self teach myself to become a full stack developer. I am using GitHub as a way to document my journey in addition to contributing to the open source community. 
+My goal is to educate myself to become a full stack developer. I am using GitHub as a way to document my journey in addition to contributing to the open source community. 
 
 You can track my current FreeCodeCamp progress [here](https://www.freecodecamp.org/JesseChampion).
 
