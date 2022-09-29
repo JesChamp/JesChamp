@@ -7,7 +7,9 @@
  ```
 My name is Jesse Champion. I graduated with a Bachelor's Degree in Accounting, but have always been interested in programming. 
 
-My goal is to self teach myself to become a full stack developer. 
+My goal is to self teach myself to become a full stack developer. I am using GitHub as a way to document my journey in addition to contributing to the open source community. 
+
+You can track my current FreeCodeCamp progress [here](https://www.freecodecamp.org/JesseChampion).
 
 ## These are the languages I would like to explore/learn:
 | LANGUAGES | STATUS | MASTERY |
@@ -73,10 +75,17 @@ This is my serious attempt to keep myself accountable for learning everyday. In 
 
 As a first time programmer, I am always open to constructive criticism and continual learning, so please do give me your inputs!
 
-Throughout my jouney, I will need to survive! This means using my degree and working in some area of accounting in addition to learning how code on the side. This comes with enormous benefits, first being that I will be able to pay off my student loans, save up for a car, start investing and offically start my life by moving out. Most importantly, I will gain firsthand experience with enterprise level software and invaluable business experience, which are necessities for the successful completion of my personal development roadmap. 
+Throughout my jouney, I will need to survive! This means using my degree and working in some area of accounting in addition to learning how code on the side. This comes with enormous benefits, first being that I will be able to pay off my student loans, save up for a car, start investing and offically start my life by moving out. Most importantly, I will gain firsthand experience with enterprise level software and invaluable business/industry experience, which are necessities for the successful completion of my personal development roadmap. 
 
-The timeframe to become a advanced beginner in the majority (51%) of the languages/concepts/applications, competent in two languages and develop my first application on the Cardano Blockchain in four years or by Q4 2026.  
+### Here are my goals: 
+- [ ] Gain advanced beginner knowledge in at least half of the: 
+    - [ ] Languages
+    - [ ] Concepts
+    - [ ] Applications
+- [ ] Gain competency in two programming languages 
+- [ ] Obtain at least four certifications
+- [ ] Develop an application on the Cardano Blockchain 
 
-The timeframe will be reviewed quarterly, beginning January 1st, 2023, to ensure that the timeframe is still achievable. Adjustments can be made due to any unforeseen conditions.
+The timeframe to achieve these goals is four years or by Q4 2026 and will be reviewed quarterly, beginning January 1st, 2023, to ensure that the timeframe is still achievable. Adjustments can be made due to any unforeseen conditions.
 
-Please feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jesse-champion-6420231a8/) or [Twitter](https://twitter.com/JesseNextDoor)
+Please feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jesse-champion-6420231a8/) or [Twitter](https://twitter.com/JesseNextDoor)!
