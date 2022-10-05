@@ -11,7 +11,7 @@ My goal is to educate myself to become a full stack developer. I am using GitHub
 
 You can track my current FreeCodeCamp progress [here](https://www.freecodecamp.org/JesseChampion). 
 
-Current FreeCodeCamp streak: 3 days
+Current FreeCodeCamp streak: 0 days
 
 ## These are the languages I would like to explore/learn:
 | LANGUAGES | STATUS | MASTERY |
@@ -57,6 +57,7 @@ Current FreeCodeCamp streak: 3 days
 | **Oracle VM Virtual Machine** | **Focusing** | **Novice** |
 | Microsoft BI | Pending | Novice |
 | Windows 10 OS | Learning | Novice |
+| Anaconda | Pending | Novice |
 
 
 ## Certifications I would like to obtain:
