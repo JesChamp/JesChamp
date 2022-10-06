@@ -37,6 +37,7 @@ Current FreeCodeCamp streak: 0 days
 | APIs and Data Driven Content | Pending | Novice |
 | Binary Analysis Tools and Processes | Pending | Novice | 
 | Blockchain | Learning | Advanced Beginner |
+| Computer Science | Pending | Novice |
 | Cyber Countermeasures and Mitigations | Pending | Novice |
 | Databases | Learning | Novice |
 | Debugging and System Analysis Tools | Pending | Novice |
