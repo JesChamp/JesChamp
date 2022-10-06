@@ -54,12 +54,13 @@ Current FreeCodeCamp streak: 0 days
 ## Applications I have interacted with or want to learn:
 | APPLICATION | STATUS | MASTERY |
 |:---| ---:| :---:|
+| Anaconda | Pending | Novice |
 | Cardano Node | Learning | Novice |
 | **Linux Ubuntu 64-bit** | **Focusing** | **Novice** |
 | **Oracle VM Virtual Machine** | **Focusing** | **Novice** |
 | Microsoft BI | Pending | Novice |
 | Windows 10 OS | Learning | Novice |
-| Anaconda | Pending | Novice |
+
 
 
 ## Certifications I would like to obtain:
@@ -74,9 +75,6 @@ Current FreeCodeCamp streak: 0 days
 | Google UX Design Professional | Pending |
 | IBM Data Science Professional | Pending |
 | Microsoft Azure Fundamentals | Pending | 
-
-
-This is my serious attempt to keep myself accountable for learning everyday. In addition to tracking my daily GitHub commits, I will also stream myself on [Twitch](https://www.twitch.tv/jessenextdoor) occasionally. Feel free to join the stream while I learn! 
 
 As a first time programmer, I am always open to constructive criticism and continual learning, so please do give me your inputs!
 
