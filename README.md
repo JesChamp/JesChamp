@@ -44,6 +44,7 @@ Current FreeCodeCamp streak: 0 days
 | DevOps | Pending | Novice |
 | Ethical Hacking | Pending | Novice |
 | Malware Detection and Malicious Indicators of Compromise | Pending | Novice |
+| Privacy-Enabling Cryptocurrencies | Learning | Novice |
 | Scrum | Pending | Novice |
 | Software Assurance and Security | Pending | Novice |
 | Static Source Code Analysis Tools and Processes | Pending | Novice |
