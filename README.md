@@ -1,4 +1,4 @@
-# Welcome to my Coding Journey! 
+# Welcome to my Coding/Life Journey! 
 
 ```js
 <script>
@@ -34,6 +34,7 @@ Current FreeCodeCamp streak: 0 days
 | Agile Development Methodology | Pending | Novice |
 | AI/Machine Learning/Deep Learning | Pending | Novice |
 | Algorithms and Data Structures | Learning | Novice |
+| AML and KYC Regulations | Learning | Novice |
 | APIs and Data Driven Content | Pending | Novice |
 | Binary Analysis Tools and Processes | Pending | Novice | 
 | Blockchain | Learning | Advanced Beginner |
